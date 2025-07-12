@@ -1,0 +1,5 @@
+{
+  "name": "Responsive ECG Waveform Animator",
+  "description": "A responsive ECG waveform animator built with React, TypeScript, and Tailwind CSS. It generates and animates ECG waveforms based on user-configurable parameters, including heart rate, wave amplitudes, and custom beat patterns, using native SVG and requestAnimationFrame for a smooth, high-performance display.",
+  "requestFramePermissions": []
+}
